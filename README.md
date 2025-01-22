@@ -34,5 +34,3 @@ Uno de mis primeros proyectos en el desarrollo web
 
 ---
 
-## 📁 Estructura del Proyecto
-
